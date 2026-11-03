@@ -18,3 +18,7 @@ nav a:hover {
     background-color: darkgreen;
     color: white;
 }
+
+nav {
+    background-color: red;
+}
