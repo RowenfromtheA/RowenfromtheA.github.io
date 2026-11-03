@@ -19,4 +19,7 @@ nav a:hover {
     color: white;
 }
 
-
+body {
+    background-color: lightblue;
+    color: darkslategray;
+}
